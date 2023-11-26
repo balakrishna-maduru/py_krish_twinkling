@@ -6,7 +6,7 @@ build-backend = "poetry.core.masonry.api"
 name = "py_krish_twinkling"
 version = "0.0.1"
 description = "Py krish twinkling is the place holder for your common python code"
-authors = [ "balakrishnamaduru@gmail.com",]
+authors = [ "John Smith <balakrishnamaduru@gmail.com>",]
 license = ""
 [[tool.poetry.packages]]
 include = "py_krish_twinkling"
