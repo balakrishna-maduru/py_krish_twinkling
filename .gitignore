@@ -1,0 +1,4 @@
+resources/.DS_Store
+.DS_Store
+poetry.lock
+.pytest_cache
